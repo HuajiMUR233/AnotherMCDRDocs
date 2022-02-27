@@ -1,0 +1,16 @@
+{
+  "name": "AnotherMCDRDocs",
+  "version": "1.0.0",
+  "description": "Just a MCDReforged's documentation with VuePress",
+  "repository": "https://github.com/HuajiMUR233/AnotherMCDRDocs.git",
+  "author": "Huaji_MUR233 <huajimur@jvav.me>",
+  "license": "LGPL-3.0",
+  "devDependencies": {
+    "@vuepress/plugin-search": "^2.0.0-beta.35",
+    "vuepress": "^2.0.0-beta.35"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
